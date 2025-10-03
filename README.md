@@ -35,7 +35,7 @@ This repository contains a CPU Scheduling Simulator in C++ implementing:
 - Convoy effect: a long process delays all shorter processes behind it. 
 
 ## OUTPUT
-![alt text](FCFS.png)
+![FCFS OUTPUT](FCFS.png)
 
 
 # Shortest Job First (SJF – Non-Preemptive)
@@ -65,7 +65,7 @@ This repository contains a CPU Scheduling Simulator in C++ implementing:
 - Risk of starvation for long processes if short jobs keep arriving.
 
 **OUTPUT**
-![alt text](SJF(non-preemptive).png)
+![alt text](SJF (non-preemptive).png)
 
 
 # Round Robin (RR)
@@ -101,7 +101,7 @@ This repository contains a CPU Scheduling Simulator in C++ implementing:
 - Too large → behaves like FCFS.
 
 **OUTPUT**
-![alt text](RoundRobin.png)
+![alt text](Round Robin.png)
 
 
 
