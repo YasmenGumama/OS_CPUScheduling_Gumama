@@ -65,7 +65,7 @@ This repository contains a CPU Scheduling Simulator in C++ implementing:
 - Risk of starvation for long processes if short jobs keep arriving.
 
 **OUTPUT**
-![SJF OUTPUT]()
+![SJF OUTPUT](https://github.com/YasmenGumama/OS_CPUScheduling_Gumama/blob/main/screenshots(BCA151)/SJF%20(non-preemptive).png)
 
 
 # Round Robin (RR)
@@ -101,7 +101,8 @@ This repository contains a CPU Scheduling Simulator in C++ implementing:
 - Too large → behaves like FCFS.
 
 **OUTPUT**
-![alt text](Round Robin.png)
+![ROUND ROBIN](https://github.com/YasmenGumama/OS_CPUScheduling_Gumama/blob/main/screenshots(BCA151)/Round%20Robin.png
+)
 
 
 
